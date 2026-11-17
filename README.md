@@ -1,3 +1,3 @@
-## Meus Habitos
+# Meus Habitos
 
-# Aplicativo para estudo de SwiftUI
+## Aplicativo para estudo de SwiftUI
